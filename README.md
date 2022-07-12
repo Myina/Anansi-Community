@@ -1,1 +1,1 @@
-# IPFS Community Network
+# Anansi Community
